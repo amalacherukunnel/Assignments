@@ -1,0 +1,31 @@
+<style>
+p{
+    color: aquamarine;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: black;
+}
+h1{
+    color: red;
+    text-decoration: underline;
+    font-size: 50px;
+}
+h3{
+    color: burlywood;
+    text-decoration: underline;
+    font-size: 30px;
+    background-color: maroon;
+}
+ul{color: red;
+    text-decoration: underline;
+    font-size: 50px;
+    background-color: darkolivegreen;
+
+}
+ol{color:purple;
+    text-decoration: underline;
+    font-size: 50px;
+    background-color: rgb(13, 243, 255);
+
+}
+</style>
